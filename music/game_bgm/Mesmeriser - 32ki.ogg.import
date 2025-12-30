@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b0i34rjgu821g"
+path="res://.godot/imported/Mesmeriser - 32ki.ogg-d62873385904c6bc078d9ff744798793.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/game_bgm/Mesmeriser - 32ki.ogg"
+dest_files=["res://.godot/imported/Mesmeriser - 32ki.ogg-d62873385904c6bc078d9ff744798793.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://l3n32csc070h"
+path="res://.godot/imported/ROT FOR CLOUT- Jaimie Paige.ogg-1a0813bc8bf33e91d085c9368f482f9c.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/game_bgm/ROT FOR CLOUT- Jaimie Paige.ogg"
+dest_files=["res://.godot/imported/ROT FOR CLOUT- Jaimie Paige.ogg-1a0813bc8bf33e91d085c9368f482f9c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ddb4em76qxnxd"
+path="res://.godot/imported/Amai Elegy, reloaded - Deco27.wav-3865c17aea9f72cd22fa9581f6a8385b.sample"
+
+[deps]
+
+source_file="res://assets/music/game_bgm/Amai Elegy, reloaded - Deco27.wav"
+dest_files=["res://.godot/imported/Amai Elegy, reloaded - Deco27.wav-3865c17aea9f72cd22fa9581f6a8385b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

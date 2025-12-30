@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://mix3r2f53ejo"
+path="res://.godot/imported/monitoring (Best Friend Remix) - Deco27.ogg-f604a41eee4b06571ee73b03dc14b62e.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/game_bgm/monitoring (Best Friend Remix) - Deco27.ogg"
+dest_files=["res://.godot/imported/monitoring (Best Friend Remix) - Deco27.ogg-f604a41eee4b06571ee73b03dc14b62e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

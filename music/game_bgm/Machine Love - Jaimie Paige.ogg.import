@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://drqkdrsliyl7r"
+path="res://.godot/imported/Machine Love - Jaimie Paige.ogg-fe3cc250ab3fff758425184511736101.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/game_bgm/Machine Love - Jaimie Paige.ogg"
+dest_files=["res://.godot/imported/Machine Love - Jaimie Paige.ogg-fe3cc250ab3fff758425184511736101.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
